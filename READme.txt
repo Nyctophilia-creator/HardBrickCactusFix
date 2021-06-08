@@ -1,8 +1,5 @@
-To update this tool, just download these files and replace them in the Bootrom folder 
-Чтобы обновить этот инструмент, просто загрузите эти файлы и замените их в папке Bootrom
-Щоб оновити цей інструмент, просто завантажте ці файли та замініть їх у папці Bootrom
-https://github.com/MTK-bypass/exploits_collection/releases
-https://github.com/MTK-bypass/bypass_utility/releases
+﻿I get from a master from telegram, but i have collected all file and ready to use.If you are the author. Please contact me at the link
+Facebook.com/HuyAkiro
 
 https://www.python.org/downloads/
 python -m pip install pyusb pyserial json5
